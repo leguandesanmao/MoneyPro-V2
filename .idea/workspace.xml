@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9869a7b-826e-44ed-b8d1-8394a09b4135" name="更改" comment="I organised the project into the folder called 'code'">
+    <list default="true" id="f9869a7b-826e-44ed-b8d1-8394a09b4135" name="更改" comment="Update the config file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/code/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/main/java/com/example/examplemod/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/main/java/com/sanmao/moneypro/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/src/main/java/com/example/examplemod/ExampleMod.java" beforeDir="false" afterPath="$PROJECT_DIR$/code/src/main/java/com/sanmao/moneypro/ExampleMod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +55,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -65,7 +63,10 @@
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -104,7 +105,8 @@
     <MESSAGE value="readme&#10;&#10;readme" />
     <MESSAGE value="Blank project" />
     <MESSAGE value="I organised the project into the folder called 'code'" />
-    <option name="LAST_COMMIT_MESSAGE" value="I organised the project into the folder called 'code'" />
+    <MESSAGE value="Update the config file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the config file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
